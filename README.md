@@ -48,9 +48,6 @@
 0.0.0.0 hl2rcv.adobe.de
 0.0.0.0 ood.opsource.net
 0.0.0.0 practivate.adobe
-0.0.0.0 practivate.adobe.com
-0.0.0.0 practivate.adobe.de
-0.0.0.0 practivate.adobe.newoa
 0.0.0.0 t3dns.adobe.com
 0.0.0.0 tpractivate.adobe.newoa
 0.0.0.0 wip.adobe.com
@@ -196,15 +193,8 @@
 0.0.0.0 192.150.8.118
 0.0.0.0 209-34-83-73.ood.opsource.net
 0.0.0.0 activate-sjc0.adobe.com
-0.0.0.0 activate-sjc0.adobe.com
 0.0.0.0 crl.verisign.net
-0.0.0.0 CRL.VERISIGN.NET.*
 0.0.0.0 ood.opsource.net
-0.0.0.0 practivate.adobe
-0.0.0.0 practivate.adobe.*
-0.0.0.0 practivate.adobe.ipp
-0.0.0.0 practivate.adobe.newoa
-0.0.0.0 practivate.adobe.ntp
 0.0.0.0 tss-geotrust-crl.thawte.com
 
 # Google Ads
@@ -226,7 +216,7 @@
 0.0.0.0 ads.admoda.com
 0.0.0.0 stats.pflexads.com
 0.0.0.0 a.glcdn.co
-0.0.0.0 wwww.adleads.com
+0.0.0.0 www.adleads.com
 0.0.0.0 ad.madvertise.de
 0.0.0.0 apps.buzzcity.net
 0.0.0.0 ads.mobgold.com
@@ -2728,11 +2718,11 @@
 0.0.0.0 pleaseletmeadvertise.com
 0.0.0.0 178.175.132.130
 0.0.0.0 r18.com
-0.0.0.0 pics.r18.*
+0.0.0.0 pics.r18.
 0.0.0.0 digitalpoint.com
 0.0.0.0 xitclub.com
-0.0.0.0 belkin.*
-0.0.0.0 criteo.*
+0.0.0.0 belkin.
+0.0.0.0 criteo.
 0.0.0.0 info.crowdynews.com
 0.0.0.0 q.crowdynews.com
 0.0.0.0 static.crowdynews.com
@@ -2741,7 +2731,7 @@
 0.0.0.0 lightboxcdn.com
 0.0.0.0 digioh.com
 0.0.0.0 linksyssmartwifi.com
-0.0.0.0 *.crowdynews.com
+0.0.0.0 crowdynews.com
 0.0.0.0 api-glb-sin.smoot.apple.com
 0.0.0.0 linksyssmartwifi.com
 0.0.0.0 www.hardwarezone.com.my
@@ -2804,7 +2794,6 @@
 0.0.0.0 wluzajogsxoy.com
 0.0.0.0 js.spacenine.biz
 0.0.0.0 cdn.hdporn4.me
-0.0.0.0 pics.r18.com
 0.0.0.0 spacenine.genieesspv.jp
 0.0.0.0 cs.gssprt.jp
 0.0.0.0 rt.gsspat.jp
@@ -2859,7 +2848,6 @@
 0.0.0.0 freestar.io
 0.0.0.0 mundojohn.bitcoincod.cpa.clicksure.com
 0.0.0.0 clicksure.com
-0.0.0.0 avistaz.to
 0.0.0.0 nextmag.com.tw
 0.0.0.0 tomonews.com
 0.0.0.0 taingheviet.com
