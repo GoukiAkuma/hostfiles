@@ -3206,3 +3206,7 @@
 0.0.0.0 r1.sn-npoeenly.googlevideo.com
 0.0.0.0 r3---sn-npoe7n7r.googlevideo.com
 0.0.0.0 r3.sn-npoe7n7r.googlevideo.com
+0.0.0.0 r3.sn-npoeenl7.googlevideo.com
+0.0.0.0 r3---sn-npoeenl7.googlevideo.com
+0.0.0.0 r3---sn-nu5gi0c-npoee.googlevideo.com
+0.0.0.0 r3.sn-nu5gi0c-npoee.googlevideo.com
