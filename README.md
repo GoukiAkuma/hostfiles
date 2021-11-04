@@ -2999,7 +2999,6 @@
 0.0.0.0 singaporekhalsa.org.sg
 0.0.0.0 global.poe.live-video.net
 0.0.0.0 d3aqoihi2n8ty8.cloudfront.net
-0.0.0.0 twitch.map.fastly.net
 0.0.0.0 do3e1cmcmos4a17ynwdkvnf7gbqj6d.ext-twitch.tv
 0.0.0.0 dy9or3jkex4hkrfm6nhsww2821g8eu.ext-twitch.tv
 0.0.0.0 9zqhb3hba48m0c382uno7k2t74isfi.ext-twitch.tv
