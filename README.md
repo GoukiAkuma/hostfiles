@@ -2997,6 +2997,11 @@
 0.0.0.0 sitescout.com
 0.0.0.0 ice.360yield.com
 0.0.0.0 singaporekhalsa.org.sg
+0.0.0.0 global.poe.live-video.net
+0.0.0.0 d3aqoihi2n8ty8.cloudfront.net
+0.0.0.0 twitch.map.fastly.net
+
+
 #youtube ads
 
 0.0.0.0 yt.moatads.com
