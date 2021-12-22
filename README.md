@@ -3007,6 +3007,7 @@
 0.0.0.0 3yumzvi6r4wfycsk7vt1kbtto9s0n3.ext-twitch.tv
 0.0.0.0 skt182bso1i1ah7dnmkwqkdk26dak4.ext-twitch.tv
 0.0.0.0 lx5db8vycmio4ascv35jozl47phe2x.ext-twitch.tv
+0.0.0.0 z.moatads.com
 
 #youtube ads
 
