@@ -3008,6 +3008,7 @@
 0.0.0.0 skt182bso1i1ah7dnmkwqkdk26dak4.ext-twitch.tv
 0.0.0.0 lx5db8vycmio4ascv35jozl47phe2x.ext-twitch.tv
 0.0.0.0 video-edge-c61a10.sin01.abs.hls.ttvnw.net
+0.0.0.0 irc-ws.chat.twitch.tv
 0.0.0.0 z.moatads.com
 
 #youtube ads
