@@ -3000,11 +3000,9 @@
 0.0.0.0 global.poe.live-video.net
 0.0.0.0 d3aqoihi2n8ty8.cloudfront.net
 0.0.0.0 do3e1cmcmos4a17ynwdkvnf7gbqj6d.ext-twitch.tv
-0.0.0.0 dy9or3jkex4hkrfm6nhsww2821g8eu.ext-twitch.tv
 0.0.0.0 9zqhb3hba48m0c382uno7k2t74isfi.ext-twitch.tv
 0.0.0.0 d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
 0.0.0.0 hnn88flma6mymdga2wt3v9aww7oobs.ext-twitch.tv
-0.0.0.0 3yumzvi6r4wfycsk7vt1kbtto9s0n3.ext-twitch.tv
 0.0.0.0 skt182bso1i1ah7dnmkwqkdk26dak4.ext-twitch.tv
 0.0.0.0 lx5db8vycmio4ascv35jozl47phe2x.ext-twitch.tv
 0.0.0.0 irc-ws.chat.twitch.tv
