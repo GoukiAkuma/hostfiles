@@ -3005,6 +3005,9 @@
 0.0.0.0 lx5db8vycmio4ascv35jozl47phe2x.ext-twitch.tv
 0.0.0.0 video-edge-91644b.pdx01.abs.hls.ttvnw.net
 0.0.0.0 video-edge-ced8e0.sin01.abs.hls.ttvnw.net
+0.0.0.0 video-edge-563d52.pdx01.abs.hls.ttvnw.net
+0.0.0.0 video-edge-cec92c.sin01.abs.hls.ttvnw.net
+0.0.0.0 video-edge-078baa.sin01.abs.hls.ttvnw.net
 0.0.0.0 irc-ws.chat.twitch.tv
 0.0.0.0 z.moatads.com
 
