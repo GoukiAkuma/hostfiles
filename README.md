@@ -3008,6 +3008,7 @@
 0.0.0.0 video-edge-563d52.pdx01.abs.hls.ttvnw.net
 0.0.0.0 irc-ws.chat.twitch.tv
 0.0.0.0 z.moatads.com
+0.0.0.0 effirst.com
 
 #youtube ads
 
