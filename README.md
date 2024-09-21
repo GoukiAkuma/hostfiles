@@ -3528,3 +3528,6 @@
 0.0.0.0 rr5.sn-nu5gi0c-npoy.googlevideo.com
 0.0.0.0 rr5---sn-nu5gi0c-npoy.googlevideo.com
 0.0.0.0 rr5.sn-nu5gi0c-npoee.googlevideo.com
+0.0.0.0 rr5.sn-npoldn7y.googlevideo.com
+0.0.0.0 rr5---sn-npoldn7y.googlevideo.com
+0.0.0.0 suggestqueries-clients6.youtube.com
