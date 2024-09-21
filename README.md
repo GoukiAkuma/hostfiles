@@ -3009,8 +3009,8 @@
 0.0.0.0 pics.r18.
 0.0.0.0 digitalpoint.com
 0.0.0.0 xitclub.com
-0.0.0.0 belkin.
-0.0.0.0 criteo.
+0.0.0.0 belkin.*
+0.0.0.0 criteo.*
 0.0.0.0 info.crowdynews.com
 0.0.0.0 q.crowdynews.com
 0.0.0.0 static.crowdynews.com
@@ -3253,8 +3253,7 @@
 0.0.0.0 track.freemmo2017.com
 0.0.0.0 webdir0f.online.lync.com
 0.0.0.0 webdir.online.lync.com
-0.0.0.0 hbet63.net/home/onclic
-0.0.0.0 offers.oanda.com/cfds-sg/
+0.0.0.0 offers.oanda.com
 0.0.0.0 ads101.vertamedia.com
 0.0.0.0 ads102.vertamedia.com
 0.0.0.0 ads12.unoadsrv.com
