@@ -3296,6 +3296,8 @@
 0.0.0.0 irc-ws.chat.twitch.tv
 0.0.0.0 z.moatads.com
 0.0.0.0 effirst.com
+0.0.0.0 edge.permutive.app
+0.0.0.0 neuron.platform.sphdigital.com.sg
 
 
 0.0.0.0 140.224.117.75
