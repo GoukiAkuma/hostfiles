@@ -3300,6 +3300,8 @@
 0.0.0.0 neuron.platform.sphdigital.com.sg
 0.0.0.0 xvideos.com
 0.0.0.0 xhamster.com
+0.0.0.0 exoticaz.to
+0.0.0.0 cinemaz.to
 
 
 
