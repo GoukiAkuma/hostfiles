@@ -3302,7 +3302,7 @@
 0.0.0.0 xhamster.com
 0.0.0.0 exoticaz.to
 0.0.0.0 cinemaz.to
-
+0.0.0.0 temu.com
 
 
 0.0.0.0 140.224.117.75
