@@ -3303,7 +3303,12 @@
 0.0.0.0 exoticaz.to
 0.0.0.0 cinemaz.to
 0.0.0.0 temu.com
-
+0.0.0.0 qq.com
+0.0.0.0 qq.com.cn
+0.0.0.0 fbcdn.net
+0.0.0.0 fbcdn.net.lan
+0.0.0.0 moloco.com
+0.0.0.0 usercentrics.eu
 
 0.0.0.0 140.224.117.75
 0.0.0.0 185.161.254.111
